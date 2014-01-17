@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e50e4a-352d-4d1d-8e22-a8a8a941652d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/lib/angular/angular-scenario.js" afterPath="$PROJECT_DIR$/test/lib/angular/angular-scenario.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/lib/angular/angular.js" afterPath="$PROJECT_DIR$/app/lib/angular/angular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/bio.html" afterPath="$PROJECT_DIR$/app/partials/bio.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
     </list>
     <ignored path="mattsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,19 +45,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="89" column="38" selection-start="2030" selection-end="2030" vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="1575">
+                <state line="11" column="21" selection-start="296" selection-end="296" vertical-scroll-proportion="0.52380955" vertical-offset="0" max-vertical-offset="1575">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="test.json" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="test.json" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/data/data/test.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="291">
+                <state line="9" column="66" selection-start="968" selection-end="968" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="270">
                   <folding />
                 </state>
               </provider>
@@ -216,24 +210,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mattsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mattsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -589,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="213" selection-end="213" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="85" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
@@ -603,16 +572,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/app/data/data/test.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="38" selection-start="2030" selection-end="2030" vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="1575">
+        <state line="9" column="66" selection-start="968" selection-end="968" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/data/data/test.json">
+    <entry file="file://$PROJECT_DIR$/app/partials/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="291">
+        <state line="6" column="27" selection-start="213" selection-end="213" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="296" selection-end="296" vertical-scroll-proportion="0.52380955" vertical-offset="0" max-vertical-offset="1575">
           <folding />
         </state>
       </provider>
