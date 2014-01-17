@@ -10,7 +10,7 @@ angular.module('mattsite', [
   'mattsite.controllers'
 ]).
 config(['$routeProvider', function($routeProvider) {
-  $routeProvider.when('/bio', {templateUrl: 'partials/bio.html', controller: 'MyCtrl1'});
-  $routeProvider.when('/items', {templateUrl: 'partials/bio.html', controller: 'MyCtrl2'});
+  $routeProvider.when('/bio', {templateUrl: 'partials/bio.html', controller: 'MyCtrl2'});
+  $routeProvider.when('/projects', {templateUrl: 'partials/projects.html', controller: 'projectController'});
   $routeProvider.otherwise({redirectTo: '/'});
 }]);
